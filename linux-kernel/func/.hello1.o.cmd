@@ -1,0 +1,1 @@
+cmd_/home/amingad/Codings-/linux-kernel/func/hello1.o := ld  -m elf_x86_64    -r -o /home/amingad/Codings-/linux-kernel/func/hello1.o /home/amingad/Codings-/linux-kernel/func/func.o /home/amingad/Codings-/linux-kernel/func/hello.o

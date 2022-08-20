@@ -1,0 +1,1 @@
+cmd_/home/amingad/Codings-/linux-kernel/func/Module.symvers := sed 's/\.ko$$/\.o/' /home/amingad/Codings-/linux-kernel/func/modules.order | scripts/mod/modpost -m -a  -o /home/amingad/Codings-/linux-kernel/func/Module.symvers -e -i Module.symvers   -T -

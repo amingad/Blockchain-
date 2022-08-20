@@ -1,0 +1,1 @@
+cmd_/home/amingad/Codings-/linux-kernel/func/modules.order := {   echo /home/amingad/Codings-/linux-kernel/func/hello1.ko; :; } | awk '!x[$$0]++' - > /home/amingad/Codings-/linux-kernel/func/modules.order
